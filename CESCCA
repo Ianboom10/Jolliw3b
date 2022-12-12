@@ -1,0 +1,5 @@
+$ git init
+$ git remote add origin <https://github.com/Ianboom10/Jolliw3b.git>
+$ git add <Group Effort>
+$ git commit -m "Add <Group Effort> directory"
+$ git push -u origin master
